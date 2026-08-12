@@ -2,9 +2,9 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing employee data to understand workforce distribution, employee attrition, salary patterns, job roles, departments, employee experience, and other HR-related factors.
+This project focuses on analyzing employee data to understand workforce distribution, employee attrition, salary patterns, job roles, departments, employee experience, job satisfaction, and other HR-related factors.
 
-SQL is the primary tool used for database management and analysis, while Python is used for data cleaning and preparation.
+**SQL is the primary tool used for database management and analysis**, while Python is used for data cleaning and preparation.
 
 The project demonstrates an end-to-end data analysis workflow using **Python, MySQL, and SQL**.
 
@@ -30,7 +30,7 @@ The main objectives of this project are:
 
 This project uses the **IBM HR Analytics Employee Attrition & Performance** dataset obtained from a public/Kaggle source.
 
-The original dataset is not included in this GitHub repository. Information about the dataset source is available in:
+The original dataset is **not included in this GitHub repository**. Information about the dataset source is available in:
 
 `Dataset/Dataset_Source.txt`
 
@@ -81,9 +81,6 @@ HR-Employee-Analytics-SQL
 │   ├── 03_analysis_queries.sql
 │   └── 04_advanced_queries.sql
 │
-├── Screenshots
-│   └── SQL_Results
-│
 ├── Project_Insights.md
 ├── README.md
 └── .gitignore
@@ -97,7 +94,7 @@ The SQL analysis is divided into four stages.
 
 ### 1. Database Setup
 
-`01_database_setup.sql`
+**File:** `01_database_setup.sql`
 
 This file contains queries for:
 
@@ -109,7 +106,7 @@ This file contains queries for:
 
 ### 2. Data Cleaning
 
-`02_data_cleaning.sql`
+**File:** `02_data_cleaning.sql`
 
 This file contains queries for:
 
@@ -121,7 +118,7 @@ This file contains queries for:
 
 ### 3. Business Analysis
 
-`03_analysis_queries.sql`
+**File:** `03_analysis_queries.sql`
 
 This file contains SQL queries for analyzing:
 
@@ -130,14 +127,14 @@ This file contains SQL queries for analyzing:
 * Salary analysis
 * Attrition analysis
 * Department-wise employee statistics
-* Experience analysis
+* Employee experience
 * Job satisfaction
 * Overtime
 * Employee demographics
 
 ### 4. Advanced SQL Analysis
 
-`04_advanced_queries.sql`
+**File:** `04_advanced_queries.sql`
 
 This file demonstrates advanced SQL concepts such as:
 
@@ -174,12 +171,12 @@ The project answers business questions such as:
 The analysis provides insights into:
 
 * Employee distribution across departments
-* Attrition patterns
+* Employee attrition patterns
 * Salary differences across job roles
 * Employee experience
 * Job satisfaction
 * Overtime patterns
-* Departments and roles with higher attrition
+* Departments and job roles with higher attrition
 
 Detailed findings and business recommendations are documented in:
 
@@ -221,7 +218,16 @@ The project follows this workflow:
 
 This project demonstrates how SQL can be used to transform raw employee data into meaningful HR insights.
 
-It showcases practical skills in **database management, data cleaning, SQL analysis, and advanced SQL techniques**, making it suitable as a portfolio project for an entry-level **SQL Developer / Data Analyst** role.
+It showcases practical skills in:
+
+* Database management
+* Data cleaning
+* SQL analysis
+* Advanced SQL
+* Business-oriented problem solving
+* Data-driven decision making
+
+This project is designed as a portfolio project for an entry-level **SQL Developer / Data Analyst** role.
 
 ---
 
@@ -231,4 +237,4 @@ It showcases practical skills in **database management, data cleaning, SQL analy
 
 Aspiring SQL Developer / Data Analyst
 
-**Skills:** SQL | MySQL | Python | Pandas | Power BI | Excel | Data Analysis
+**Skills:** SQL | MySQL | Python | Pandas | Excel | Data Analysis
