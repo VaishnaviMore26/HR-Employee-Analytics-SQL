@@ -82,7 +82,6 @@ HR-Employee-Analytics-SQL
 │
 ├── Project_Insights.md
 ├── README.md
-└── .gitignore
 ```
 
 ---
