@@ -76,7 +76,6 @@ HR-Employee-Analytics-SQL
 │   └── data_cleaning.py
 │
 ├── SQL_Queries
-│   ├── 01_database_setup.sql
 │   ├── 02_data_cleaning.sql
 │   ├── 03_analysis_queries.sql
 │   └── 04_advanced_queries.sql
