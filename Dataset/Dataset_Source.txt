@@ -1,0 +1,17 @@
+Dataset Name:
+IBM HR Analytics Employee Attrition & Performance
+
+Source:
+Kaggle / Public Dataset
+
+Original File:
+WA_Fn-UseC_-HR-Employee-Attrition.xlsx
+
+Purpose:
+This dataset is used for analyzing employee demographics,
+job characteristics, compensation, performance, satisfaction,
+and employee attrition.
+
+Note:
+The original dataset is not included in this GitHub repository.
+It is used locally for SQL and Python analysis.
